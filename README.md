@@ -2,6 +2,8 @@
 
 This is a solution for FreeCodeCamp's [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/) certification. [Repl.it](https://replit.com) will be used to build and run this project.
 
+To view it in action use [Repl.it link](https://freecodecamptestingchai.iuliancenusa.repl.co/).
+
 ## Author
 
 - [GitHub Profile](https://github.com/iulian-cenusa)
